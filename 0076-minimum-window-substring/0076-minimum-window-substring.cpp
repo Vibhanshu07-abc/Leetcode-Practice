@@ -7,7 +7,7 @@ public:
         int left = 0;
         int count = 0;
         int start = -1;
-        int minLen = INT_MAX;
+        int minLen = s.size()+1;
         for (int right = 0; right < s.size(); right++) {
             if (freq[s[right]] > 0)
                 count++;
