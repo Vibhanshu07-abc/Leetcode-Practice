@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
