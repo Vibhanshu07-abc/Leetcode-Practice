@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0525-contiguous-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## String
@@ -54,27 +56,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
