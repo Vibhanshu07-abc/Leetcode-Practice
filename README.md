@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
@@ -121,9 +122,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
