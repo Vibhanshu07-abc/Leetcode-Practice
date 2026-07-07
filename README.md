@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -155,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
