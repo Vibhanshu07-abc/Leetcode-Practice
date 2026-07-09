@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0796-rotate-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
