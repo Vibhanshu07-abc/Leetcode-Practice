@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0327-count-of-range-sum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0327-count-of-range-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
