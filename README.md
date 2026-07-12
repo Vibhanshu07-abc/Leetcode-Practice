@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -177,9 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
