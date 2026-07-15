@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0986-interval-list-intersections](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
