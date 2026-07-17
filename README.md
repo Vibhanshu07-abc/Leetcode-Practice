@@ -205,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0986-interval-list-intersections) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
