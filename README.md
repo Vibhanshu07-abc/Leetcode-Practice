@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
