@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -219,15 +220,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
