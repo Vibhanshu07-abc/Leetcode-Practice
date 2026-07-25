@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## String Matching
 |  |
 | ------- |
