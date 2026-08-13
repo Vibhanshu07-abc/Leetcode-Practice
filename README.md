@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -272,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
