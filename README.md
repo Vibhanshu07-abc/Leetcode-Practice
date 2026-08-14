@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0338-counting-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -275,5 +276,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
