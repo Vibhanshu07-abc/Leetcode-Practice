@@ -278,4 +278,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
