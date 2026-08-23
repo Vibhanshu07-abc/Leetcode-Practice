@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0242-valid-anagram) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -301,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0461-hamming-distance) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
