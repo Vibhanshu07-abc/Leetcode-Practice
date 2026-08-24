@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0796-rotate-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
