@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
