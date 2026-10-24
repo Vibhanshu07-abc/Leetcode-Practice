@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0704-binary-search) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Indexed Tree
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0994-rotting-oranges) |
