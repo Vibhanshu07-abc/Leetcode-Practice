@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -383,9 +386,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
