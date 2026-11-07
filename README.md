@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0796-rotate-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## String Matching
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -381,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -393,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [1020-number-of-enclaves](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
