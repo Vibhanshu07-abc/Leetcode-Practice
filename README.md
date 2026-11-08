@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
@@ -457,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vibhanshu07-abc/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
